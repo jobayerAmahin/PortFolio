@@ -1,0 +1,159 @@
+.blue-text{
+    color: maroon;
+    text-align: left;
+    font-size: 35pt;
+}
+#red{
+    color: black;
+    text-align: left;
+    font-size: 20pt;
+}
+
+.profileImage{
+    width: 300px;
+    height: 300px;
+    border: 5px snow;
+    position: absolute;
+    left: 75%;
+    top: 20px;
+    border-radius: 10%;
+}
+image{
+    width: 70%;
+    height: 200px;
+    position: absolute;
+    left: 30%;
+}
+body{
+    background-color: lemonchiffon;
+    font-family: 'Fira Sans', sans-serif;
+}
+#intro{
+    background-color: darkorange;
+    height: 200px;
+    width: 60%;
+    padding: 5%;
+    border: 10px saddlebrown;
+    border-top: 2px;
+
+}
+#pimg{
+    width: 60%;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+}
+#testArea{
+    position: relative;
+    top: 190px;
+}
+#skills{
+    background-color: lightsteelblue;
+    height: 200px;
+    width: 60%;
+    padding: 5%;
+    border: 10px saddlebrown;
+    border-top: 2px;
+    margin-left: 30%;
+}
+#skills>button>a{
+    color: black;
+    font-size: 1.3rem;
+    display: inline-block;
+}
+.display{
+    background-color: whitesmoke;
+}
+.sqa{
+    display: inline-block;
+    width: 40%;
+    height: 450px;
+    position: relative;
+    left: 5%;
+    text-align: justify;
+}
+.web{
+    display: inline-block;
+    width: 40%;
+    height: 450px;
+    position: relative;
+    left: 15%;
+    text-align: justify;
+}
+.sqa>img{
+    height: 120px;
+    width: 250px;
+    float: left;
+    border-image: auto;
+}
+.web>img{
+    height: 120px;
+    width: 250px;
+    float: left;
+    border-image: auto;
+}
+.sqa>p{
+    position: relative;
+    left: 15px;
+    font-size: large;
+}
+.web>p{
+    position: relative;
+    left: 15px;
+    font-size: large;
+}
+#learn{
+    background-color: lightsteelblue;
+    height: 100px;
+    width: 90%;
+    padding: 5%;
+    border: 10px saddlebrown;
+    border-top: 2px;
+    text-align: left;
+}
+.lang{
+    display: inline-block;
+    height: 200px;
+    width: 30%;
+    background-color: maroon;
+    color: darkorange;
+    border-radius: 50%;
+
+}
+.news{
+    display: inline-block;
+    height: 200px;
+    width: 30%;
+    background-color: darkorange;
+    color: maroon;
+    border-radius: 50%;
+}
+.tech{
+    display: inline-block;
+    height: 200px;
+    width: 30%;
+    background-color: maroon;
+    color: darkorange;
+    border-radius: 50%;
+}
+.media{
+    font-size: 3rem;
+    text-align: center;
+}
+#contact{
+    background-color: darkslategray;
+    height: 150px;
+    width: 90%;
+    padding: 5%;
+    border: 10px saddlebrown;
+    border-top: 2px;
+    text-align: center;
+    color: darkorange;
+}
+button{
+    height: 50px;
+    width: 125px;
+    background-color: darkorange;
+    font-weight: 200;
+    border-radius: 10%;
+}
